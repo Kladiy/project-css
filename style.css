@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    color: #F9DCDC;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+header{
+image-rendering: ;
+}
+#homedes{
+    color: black;
+}
+.navbar{
+    background-color: #F9DCDC;"
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(247, 100, 55);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.navbar a:hover{
+    background-color: crimson;
+}
+.navbar li{
+    float: left;
+}
+footer{
+    text-align: center;
+    text-align: ;
+}
